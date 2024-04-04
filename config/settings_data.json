@@ -1,6 +1,19 @@
 {
-  "current": "Default",
+  "current": {
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "17532689981107326958": {
+        "type": "shopify:\/\/apps\/g-scarcity-countdown-timer-bar\/blocks\/app-embeded\/2669860a-e233-4fac-a529-c1f2bbc91e3d",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
   "presets": {
-    "Default": { }
+    "Default": {
+    }
   }
 }
